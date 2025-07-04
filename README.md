@@ -1,6 +1,5 @@
 ## IP Classes:
-![image](https://github.com/user-attachments/assets/436e637e-6ddf-4c66-b814-03a7eea56b6d)
-
+![image](https://github.com/user-attachments/assets/4e2ca07f-c210-4f7b-a412-237c6c70c5b8)
 
 ## Binary Representation
 ![image](https://github.com/user-attachments/assets/a7b29193-7287-4cd7-ac2d-84de5eac50be)

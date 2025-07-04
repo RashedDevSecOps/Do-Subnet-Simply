@@ -4,7 +4,7 @@
 ![image](https://github.com/user-attachments/assets/a7b29193-7287-4cd7-ac2d-84de5eac50be)
 
 
-## Class A Subnets
+### Class A Subnets
 For Class-A subnetting we need to prepare the below table, we will discuss how can prepare this table.  
 
 For making this table we already that the default networrk bit is of Class-A is 8 and the default subnet mask is 255.255.255.0. 

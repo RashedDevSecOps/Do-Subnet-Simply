@@ -1,8 +1,9 @@
-![image](https://github.com/user-attachments/assets/e9b2ad57-7889-466a-bf73-8f33186da358)
+## IP Classes:
+![image](https://github.com/user-attachments/assets/436e637e-6ddf-4c66-b814-03a7eea56b6d)
+
 
 ## Binary Representation
 ![image](https://github.com/user-attachments/assets/a7b29193-7287-4cd7-ac2d-84de5eac50be)
-
 
 # Class A Subnets
 For Class-A subnetting, we just need to prepare the below table, now we will discuss how we can prepare the table.  

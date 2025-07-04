@@ -5,7 +5,7 @@
 
 
 # Class A Subnets
-For Class-A subnetting we need to prepare the below table, now we will discuss how we can prepare this table.  
+For Class-A subnetting, we just need to prepare the below table, now we will discuss how we can prepare the table.  
 
 For making this table we already know that the default networrk bit is of Class-A is 8 and the default subnet mask is 255.255.255.0. 
 
